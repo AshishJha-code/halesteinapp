@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- iphone_6_7_8_plus__1 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__iphone_6_7_8_plus__1_color">#ffffff</color>
+	<color name="rectangle_62_color">#ebeef3</color>
+	<color name="ellipse_34_color">#0d0d0d</color>
+	<color name="halestein__color">#000000</color>
+	<color name="or_login_with_color">#7f7f7f</color>
+</resources>

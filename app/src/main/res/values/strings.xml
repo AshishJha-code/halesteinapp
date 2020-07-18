@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- iphone_6_7_8_plus__1 strings -->
+
+	<string name="app_name">iPhone 6/7/8 Plus 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="halestein__string"><![CDATA[HALESTEIN
+]]></string>
+	<string name="foodlabs_string">FOODLABS</string>
+	<string name="login_string">Login</string>
+	<string name="email_id_mobile_no__string">Email Id/Mobile No.</string>
+	<string name="password_string">Password</string>
+	<string name="or_login_with_string">or login with</string>
+	<string name="sign_up_string">SIGN UP</string>
+	<string name="don_t_have_an_account__string">Dont have an account?</string>
+</resources>
